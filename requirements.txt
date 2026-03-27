@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langgraph
+langfuse
+markdownify
+azure-cosmos
+azure-search
+azure-identity
+azureopenai
+pinecone
+fastapi
+uvicorn
